@@ -5,10 +5,10 @@
   </a>
 </p>
 <!-- Title -->
-<h1 align="center"><b>CS519.M11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</b></h1>
+<h1 align="center"><b>CS519.M11 - MÁY HỌC</b></h1>
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** MACHINE LEARNIGN 
+* **Tên môn học:** MÁY HỌC
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.M11
 * **Năm học:** HK1 (2021 - 2022)
