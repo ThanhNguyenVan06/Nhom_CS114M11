@@ -13,7 +13,7 @@
 * **Mã lớp:** CS114.M11
 * **Năm học:** HK1 (2021 - 2022)
 * **Giảng viên:** **Lê Đình Duy** - *duyld@uit.edu.vn*
-* **Giảng viên:** **Phạm Nguyễn Trường An** - *anpnt@uit.edu.vn*
+* **Giảng viên:** **Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
 
