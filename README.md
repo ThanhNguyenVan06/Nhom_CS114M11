@@ -5,7 +5,7 @@
   </a>
 </p>
 <!-- Title -->
-<h1 align="center"><b>CS519.M11 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS114.M11 - MÁY HỌC</b></h1>
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC
