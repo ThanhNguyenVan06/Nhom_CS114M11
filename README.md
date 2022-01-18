@@ -22,3 +22,7 @@
 | 1 | Nguyễn Văn Thành | 19522243 | Nhóm trưởng | 
 | 2 | Vũ Quốc Huy | 19521642 | Thành viên |
 | 2 | Võ Huy Thành | 19522244 | Thành viên |
+
+Link google drive: https://drive.google.com/drive/folders/1kOs-pFU_vQXLOrdIv_s93LeUQh63aS_Q?usp=sharing
+
+Link demo: https://drive.google.com/file/d/16SgtA6DX-Hul5GPZwI-3FRyWFLfdsyqW/view?usp=sharing
