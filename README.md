@@ -26,3 +26,9 @@
 Link google drive: https://drive.google.com/drive/folders/1kOs-pFU_vQXLOrdIv_s93LeUQh63aS_Q?usp=sharing
 
 Link demo: https://drive.google.com/file/d/16SgtA6DX-Hul5GPZwI-3FRyWFLfdsyqW/view?usp=sharing
+
+Link yolov5: https://colab.research.google.com/drive/1zK98bTvyk6pdJ9GI4N_Uknb32PUm-Bz1?usp=sharing
+
+Link resnet: https://colab.research.google.com/drive/1whcS8H1ItfyK_DFJWOpU0UQeBJSvkiQ5?usp=sharing
+
+Link evaluate_resnet: https://colab.research.google.com/drive/1uT3Y8cLlYKfjr1CDZVeUJlgCcrIzkxmC?usp=sharing
